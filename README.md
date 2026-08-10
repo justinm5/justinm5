@@ -1,4 +1,4 @@
-# Hi, I'm Justin
+# Hey, I'm Justin!
 
 I'm a Computer Science & Mathematics student at UMass Amherst.
 
